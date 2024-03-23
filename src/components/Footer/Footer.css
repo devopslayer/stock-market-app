@@ -1,0 +1,16 @@
+footer {
+    position: relative;
+    bottom: 0;
+    width: 100%;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    margin: 10px auto;
+}
+
+footer a {
+    text-decoration: none;
+    font-weight: bolder;
+    color: var(--link-color);
+    text-shadow: 5px 5px 10px rgba(3, 96, 119, 0.40);
+}
