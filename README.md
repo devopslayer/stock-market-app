@@ -41,9 +41,18 @@ Follow the instructions below to get the project up and running on your local ma
 4. Start the development server:
 
     ```bash
-    npm start
+    npm run dev
 
 5. Open your web browser and navigate to http://localhost:3000 or any localhost server port shown in the terminal to view the application.
+
+6. After the site shows in browser window, try to commit all files to your repository.
+
+7. After commiting all files, run the following command:
+
+    ```bash
+    npm run deploy
+
+#### Note: This will deploy your application live in the github pages. And also will build your 'build [dist]' file.
 
 ## How to Use
 
