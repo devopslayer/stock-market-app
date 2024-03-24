@@ -42,3 +42,26 @@ nav .menu ul a:hover {
 .active {
     border-bottom: 2px solid #000;
 }
+
+.burger {
+    display: none;
+    width: 32px;
+    height: 32px;
+    margin: 0 10px;
+    padding: 5px;
+    cursor: pointer;
+}
+
+@media screen and (max-width: 600px) {
+    nav{
+        padding: 10px;
+    }
+
+    .menu {
+      display: none !important;
+    }
+
+    .burger {
+        display: block;
+    }
+  }

@@ -1,13 +1,17 @@
+import PropTypes from 'prop-types'
 import './Footer.css'
 
-function Footer() {
-  const curYear = new Date().getFullYear();
+function Footer({ year }) {
 
-    return (
-      <footer>
-        Copyright &copy; &nbsp;<b>InvestIQ {curYear}</b>. All rights reserved. Developed by &nbsp;<a href='https://github.com/devopslayer'>Devopslayer</a>
-      </footer>
-    )
-  }
+  return (
+    <footer>
+      Copyright &copy; &nbsp;<b>InvestIQ {year}</b>. All rights reserved. Developed by &nbsp;<a href='https://github.com/devopslayer'>Devopslayer</a>
+    </footer>
+  )
+}
+
+Footer.propTypes = {
+  year: PropTypes.number.isRequired,
+};
   
-  export default Footer
+export default Footer
