@@ -1,4 +1,4 @@
-# Stock Price Tracker (InvestIQ)
+# Stock Price Tracker ([InvestIQ](https://devopslayer.github.io/stock-market-app/))
 
 A simple web application built with React.js to track live stock prices of companies from NSE.
 
