@@ -1,0 +1,272 @@
+[
+    {
+      "symbol": "AAPL",
+      "name": "Apple Inc.",
+      "price": 145.12,
+      "change": "+2.45",
+      "percentChange": "+1.72%",
+      "volume": 23672553,
+      "image": "img_src"
+    },
+    {
+      "symbol": "GOOG",
+      "name": "Alphabet Inc.",
+      "price": 2735.93,
+      "change": "-14.67",
+      "percentChange": "-0.53%",
+      "volume": 1530685,
+      "image": "img_src"
+    },
+    {
+      "symbol": "AMZN",
+      "name": "Amazon.com Inc.",
+      "price": 3215.84,
+      "change": "+18.32",
+      "percentChange": "+0.57%",
+      "volume": 2222356,
+      "image": "img_src"
+    },
+    {
+      "symbol": "MSFT",
+      "name": "Microsoft Corporation",
+      "price": 298.00,
+      "change": "+1.89",
+      "percentChange": "+0.64%",
+      "volume": 20515578,
+      "image": "img_src"
+    },
+    {
+      "symbol": "FB",
+      "name": "Meta Platforms, Inc.",
+      "price": 328.91,
+      "change": "-2.78",
+      "percentChange": "-0.84%",
+      "volume": 12453621,
+      "image": "img_src"
+    },
+    {
+      "symbol": "TSLA",
+      "name": "Tesla, Inc.",
+      "price": 711.92,
+      "change": "-3.12",
+      "percentChange": "-0.44%",
+      "volume": 5458932,
+      "image": "img_src"
+    },
+    {
+      "symbol": "NVDA",
+      "name": "NVIDIA Corporation",
+      "price": 228.35,
+      "change": "+5.78",
+      "percentChange": "+2.60%",
+      "volume": 9874256,
+      "image": "img_src"
+    },
+    {
+      "symbol": "V",
+      "name": "Visa Inc.",
+      "price": 239.40,
+      "change": "-1.20",
+      "percentChange": "-0.50%",
+      "volume": 3829145,
+      "image": "img_src"
+    },
+    {
+      "symbol": "JPM",
+      "name": "JPMorgan Chase & Co.",
+      "price": 151.77,
+      "change": "+0.89",
+      "percentChange": "+0.59%",
+      "volume": 6583721,
+      "image": "img_src"
+    },
+    {
+      "symbol": "PG",
+      "name": "Procter & Gamble Company",
+      "price": 137.45,
+      "change": "-0.75",
+      "percentChange": "-0.54%",
+      "volume": 5421873,
+      "image": "img_src"
+    },
+    {
+      "symbol": "UNH",
+      "name": "UnitedHealth Group Incorporated",
+      "price": 388.20,
+      "change": "+3.56",
+      "percentChange": "+0.93%",
+      "volume": 2913452,
+      "image": "img_src"
+    },
+    {
+      "symbol": "BAC",
+      "name": "Bank of America Corporation",
+      "price": 42.67,
+      "change": "+0.32",
+      "percentChange": "+0.76%",
+      "volume": 9856214,
+      "image": "img_src"
+    },
+    {
+      "symbol": "KO",
+      "name": "The Coca-Cola Company",
+      "price": 56.89,
+      "change": "-0.45",
+      "percentChange": "-0.79%",
+      "volume": 7823145,
+      "image": "img_src"
+    },
+    {
+      "symbol": "WMT",
+      "name": "Walmart Inc.",
+      "price": 139.58,
+      "change": "+0.89",
+      "percentChange": "+0.64%",
+      "volume": 6528743,
+      "image": "img_src"
+    },
+    {
+      "symbol": "CSCO",
+      "name": "Cisco Systems, Inc.",
+      "price": 52.78,
+      "change": "+0.67",
+      "percentChange": "+1.29%",
+      "volume": 4327856,
+      "image": "img_src"
+    },
+    {
+      "symbol": "CRM",
+      "name": "Salesforce.com, inc.",
+      "price": 235.90,
+      "change": "-1.45",
+      "percentChange": "-0.61%",
+      "volume": 5897412,
+      "image": "img_src"
+    },
+    {
+      "symbol": "XOM",
+      "name": "Exxon Mobil Corporation",
+      "price": 58.23,
+      "change": "-0.32",
+      "percentChange": "-0.55%",
+      "volume": 8954123,
+      "image": "img_src"
+    },
+    {
+      "symbol": "INTC",
+      "name": "Intel Corporation",
+      "price": 55.67,
+      "change": "+0.45",
+      "percentChange": "+0.81%",
+      "volume": 7321598,
+      "image": "img_src"
+    },
+    {
+      "symbol": "DIS",
+      "name": "The Walt Disney Company",
+      "price": 169.80,
+      "change": "+1.23",
+      "percentChange": "+0.73%",
+      "volume": 4217843,
+      "image": "img_src"
+    },
+    {
+      "symbol": "VZ",
+      "name": "Verizon Communications Inc.",
+      "price": 54.32,
+      "change": "-0.20",
+      "percentChange": "-0.37%",
+      "volume": 5241378,
+      "image": "img_src"
+    },
+    {
+      "symbol": "MRK",
+      "name": "Merck & Co., Inc.",
+      "price": 77.59,
+      "change": "-0.12",
+      "percentChange": "-0.15%",
+      "volume": 3189456,
+      "image": "img_src"
+    },
+    {
+      "symbol": "NKE",
+      "name": "NIKE, Inc.",
+      "price": 138.45,
+      "change": "+1.32",
+      "percentChange": "+0.96%",
+      "volume": 2547893,
+      "image": "img_src"
+    },
+    {
+      "symbol": "HON",
+      "name": "Honeywell International Inc.",
+      "price": 228.76,
+      "change": "+2.10",
+      "percentChange": "+0.93%",
+      "volume": 1874659,
+      "image": "img_src"
+    },
+    {
+      "symbol": "IBM",
+      "name": "International Business Machines Corporation",
+      "price": 123.45,
+      "change": "+0.98",
+      "percentChange": "+0.80%",
+      "volume": 3125698,
+      "image": "img_src"
+    },
+    {
+      "symbol": "BA",
+      "name": "The Boeing Company",
+      "price": 229.87,
+      "change": "-1.76",
+      "percentChange": "-0.76%",
+      "volume": 1987432,
+      "image": "img_src"
+    },
+    {
+      "symbol": "MMM",
+      "name": "3M Company",
+      "price": 177.32,
+      "change": "+0.67",
+      "percentChange": "+0.38%",
+      "volume": 2378412,
+      "image": "img_src"
+    },
+    {
+      "symbol": "CAT",
+      "name": "Caterpillar Inc.",
+      "price": 208.91,
+      "change": "+1.89",
+      "percentChange": "+0.91%",
+      "volume": 1765843,
+      "image": "img_src"
+    },
+    {
+      "symbol": "DOW",
+      "name": "Dow Inc.",
+      "price": 64.32,
+      "change": "-0.10",
+      "percentChange": "-0.16%",
+      "volume": 3412975,
+      "image": "img_src"
+    },
+    {
+      "symbol": "HD",
+      "name": "The Home Depot, Inc.",
+      "price": 333.21,
+      "change": "+2.89",
+      "percentChange": "+0.87%",
+      "volume": 1829654,
+      "image": "img_src"
+    },
+    {
+      "symbol": "MCD",
+      "name": "McDonald's Corporation",
+      "price": 246.78,
+      "change": "-0.32",
+      "percentChange": "-0.13%",
+      "volume": 2753148,
+      "image": "img_src"
+    }
+]
