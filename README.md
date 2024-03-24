@@ -1,4 +1,4 @@
-# Stock Price Tracker
+# Stock Price Tracker (InvestIQ)
 
 A simple web application built with React.js to track live stock prices of companies from NSE.
 
@@ -56,8 +56,13 @@ Follow the instructions below to get the project up and running on your local ma
 Contributions are welcome! If you'd like to contribute to this project, please follow these steps:
 
 1.Fork the repository.
+
 2.Create a new branch (git checkout -b feature/improvement).
+
 3.Make your changes.
+
 4.Commit your changes (git commit -am 'Add new feature').
+
 5.Push to the branch (git push origin feature/improvement).
+
 6.Create a new Pull Request.
