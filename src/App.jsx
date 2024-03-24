@@ -5,7 +5,7 @@ import './App.css'
 
 function App() {
   // Using this mock data for testing purposes only, if needed you can add real API url instead of this JSON file.
-  const stockDataUrl = '/mockData.json';
+  const stockDataUrl = './mockData.json';
   const curYear = new Date().getFullYear();
 
   return (
